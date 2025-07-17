@@ -47,3 +47,15 @@ After completing the tutorial notebook, try to:
 
 3. **Share your project in class.**
    - Be prepared to explain your use case and how Linear Regression helped.
+  
+## 🧑‍🏫 For Students
+
+This is a **training repo** — feel free to fork it, modify it, and use it as a base for your own Linear Regression mini-project.  
+The goal is not just to learn syntax, but to understand how we **use models to make real decisions**.
+
+---
+
+**Instructor:** Al Christo Fe Monarca  
+**Course:** Machine Learning and AI  
+**Institution:** Western Institute of Technology - IT
+
